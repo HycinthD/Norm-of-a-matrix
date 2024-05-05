@@ -12,14 +12,13 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ```Python
 # Register No:HYCINTH D
 # Developed By:212223240055
-# 1-Norm of a Matrix
 ```
+# 1-Norm of a Matrix
 ```
 program to find 2-norm of a matrix.
 developed by: HYCINTH D
 Register Number: 212223240055
 ```
-# 1-Norm of matrix
 ```
 import numpy as np
 mat=np.array(eval(input()))
